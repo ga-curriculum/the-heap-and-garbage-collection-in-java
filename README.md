@@ -14,9 +14,9 @@ By the conclusion of this lesson, students will have the capacity to describe th
 
 | Lesson | Time | Learning Objectives |
 | ------ |:----------:|:------ |
-| [The Garbage Collector](.) | 15 min | Describe what the garbage collector is and how it works. |
-| [Heap vs. Stack](.) | 10 min | Differentiate between the heap and the stack. |
-| [`OutOfMemory` Error](.) | 30 min | Examine how to prevent the `OutofMemory` error.  |
+| [The Garbage Collector](./the-garbage-collector/README.md) | 15 min | Describe what the garbage collector is and how it works. |
+| [Heap vs. Stack](./heap-vs-stack/README.md) | 10 min | Differentiate between the heap and the stack. |
+| [`OutOfMemory` Error](./OutOfMemory-Error/README.md) | 30 min | Examine how to prevent the `OutofMemory` error.  |
 | **Total content**  | 55 min |  |
 
 
