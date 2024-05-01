@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/heap-vs-stack.png)
 
 **Learning objective:** By the end of this lesson, students will be able to differentiate between the heap and the stack.
 

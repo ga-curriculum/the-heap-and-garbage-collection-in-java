@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/the-heap-and-garbage-collector-header.png)
 
 ## About
 
@@ -6,9 +6,7 @@ By the conclusion of this lesson, students will have the capacity to describe th
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None.
 
 ## Content
 

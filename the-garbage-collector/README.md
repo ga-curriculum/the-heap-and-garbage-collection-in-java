@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/garbage-collector.png)
 
 **Learning objective:** By the end of this lesson, students will be able to describe what the garbage collector is and how it works.
 
