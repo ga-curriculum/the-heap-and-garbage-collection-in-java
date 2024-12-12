@@ -9,6 +9,20 @@ setup = new Template.Microlesson {
   videoUrl = ""
 }
 
+concepts = new Template.Microlesson {
+  friendlyName = "Concepts"
+  dirName = "concepts"
+  type = "Content"
+  videoUrl = ""
+}
+
+jvmMemoryAreas = new Template.Microlesson {
+  friendlyName = "JVM Memory Areas"
+  dirName = "jvm-memory-areas"
+  type = "Content"
+  videoUrl = ""
+}
+
 theGarbageCollector = new Template.Microlesson {
   friendlyName = "The Garbage Collector"
   dirName = "the-garbage-collector"
@@ -16,16 +30,9 @@ theGarbageCollector = new Template.Microlesson {
   videoUrl = ""
 }
 
-heapVsStack = new Template.Microlesson {
-  friendlyName = "Heap vs. Stack"
-  dirName = "heap-vs-stack"
-  type = "Content"
-  videoUrl = ""
-}
-
-outOfMemoryError = new Template.Microlesson {
-  friendlyName = "<code>OutOfMemory</code> Error"
-  dirName = "outofmemory-error"
+performanceTuningBasics = new Template.Microlesson {
+  friendlyName = "Performance Tuning Basics"
+  dirName = "performance-tuning-basics"
   type = "Content"
   videoUrl = ""
 }

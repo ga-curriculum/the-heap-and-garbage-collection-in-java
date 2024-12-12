@@ -22,9 +22,10 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
+      mls.concepts
+      mls.jvmMemoryAreas
       mls.theGarbageCollector
-      mls.heapVsStack
-      mls.outOfMemoryError
+      mls.performanceTuningBasics
     }
   }
   new {
@@ -32,9 +33,10 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
+      mls.concepts
+      mls.jvmMemoryAreas
       mls.theGarbageCollector
-      mls.heapVsStack
-      mls.outOfMemoryError
+      mls.performanceTuningBasics
     }
   }
   new {
@@ -42,9 +44,10 @@ courses {
     microlessons {
       // add microlessons here, in the order they should be delivered
       mls.setup
+      mls.concepts
+      mls.jvmMemoryAreas
       mls.theGarbageCollector
-      mls.heapVsStack
-      mls.outOfMemoryError
+      mls.performanceTuningBasics
     }
   }
 }
