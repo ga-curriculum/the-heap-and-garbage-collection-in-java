@@ -5,15 +5,9 @@
 
 ## About
 
-Java applications often run on diverse environments with varying memory limitations. Understanding how java manages memory helps us to write code that:
+Java applications often run on diverse environments with varying memory limitations. Understanding how java manages memory helps us to write code that runs faster, uses less memory, prevents memory leaks, minimizes performance bottlenecks, and voids performance-related application crashes.
 
-- Runs faster
-- Uses less memory
-- Prevents memory leaks
-- Minimizes performance bottlenecks
-- Avoids performance-related application crashes
-
-This knowledge is necessary when we are developing large-scale or resource-constrained applications.
+This knowledge is necessary when we are developing large-scale or resource-constrained applications that require extensive optimization.
 
 ## Content
 
